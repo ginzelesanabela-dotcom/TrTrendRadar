@@ -50,14 +50,10 @@ platforms:
       name: "知乎"
     - id: "zaobao"
       name: "联合早报"
-    - id: "jin10"
-      name: "金十数据"
     - id: "github"
       name: "GitHub"
     - id: "ithome"
       name: "IT之家"
-    - id: "cls-telegraph"
-      name: "财联社 电报"
 
     
 # ===============================================================
