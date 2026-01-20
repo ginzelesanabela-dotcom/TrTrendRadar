@@ -30,8 +30,6 @@ platforms:
   sources:
     - id: "toutiao"
       name: "今日头条"
-    - id: "baidu"
-      name: "百度热搜"
     - id: "wallstreetcn-hot"
       name: "华尔街见闻"
     - id: "thepaper"
@@ -50,9 +48,18 @@ platforms:
       name: "抖音"
     - id: "zhihu"
       name: "知乎"
+    - id: "zaobao"
+      name: "联合早报"
+    - id: "jin10"
+      name: "金十数据"
+    - id: "github"
+      name: "GitHub"
+    - id: "ithome"
+      name: "IT之家"
+    - id: "cls-telegraph"
+      name: "财联社 电报"
 
-
-
+    
 # ===============================================================
 # 3. 数据源 - RSS 订阅
 #
